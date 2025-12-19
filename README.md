@@ -1,3 +1,6 @@
+Youtube video link --
+https://youtu.be/J5WGnPcL-F8?si=jMPjAPuGjQlmSq66
+
 Prerequisites
 
 Install Python 3.10+ and Git.
